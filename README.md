@@ -1,26 +1,27 @@
-gulp
-gulp-sequence (sequence tasks)
-gulp-if
-gulp-rename
-yargs (read option strings in node commands)
-gulp-sourcemaps (write sourcemaps for css and js)
-del
+# Gulp TiTi Starter
 
-browser-sync
+This is a simple gulp starter kit with some usefull tasks.
 
-browserify
-watchify (update browserify bundle when a file is changed)
-vinyl-source-stream (use stream with npm modules)
-vinyl-buffer (to make stream support)
-debowerify (make bower components browserify compatible)
-gulp-uglify
-vinyl-buffer (convert from streaming to buffered vinyl file object)
-gulp-eslint
+### Included
 
-gulp-sass
-gulp-autoprefixer
-
-gulp-imagemin
-
-gulp-iconfont
-gulp-consolidate (template to generate css)
+* gulp
+* gulp-sequence (sequence tasks)
+* gulp-if
+* gulp-rename
+* yargs (read option strings in node commands)
+* gulp-sourcemaps (write sourcemaps for css and js)
+* del
+* browser-sync
+* browserify
+* watchify (update browserify bundle when a file is changed)
+* vinyl-source-stream (use stream with npm modules)
+* vinyl-buffer (to make stream support)
+* debowerify (make bower components browserify compatible)
+* gulp-uglify
+* vinyl-buffer (convert from streaming to buffered vinyl file object)
+* gulp-eslint
+* gulp-sass
+* gulp-autoprefixer
+* gulp-imagemin
+* gulp-iconfont
+* gulp-consolidate (template to generate css)
